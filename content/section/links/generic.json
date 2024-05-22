@@ -1,0 +1,40 @@
+{
+  "title": "Link Generic",
+  "items": [
+    {
+      "title": "Facebook",
+      "url": "/",
+      "media": {
+        "image": "",
+        "icon": "fa-brands:facebook-f"
+      },
+      "colors": {
+        "bg": "#0069cb",
+        "icon": "#ffffff"
+      }
+    },
+    {
+      "title": "Instagram",
+      "subtitle": "@instagram",
+      "url": "/",
+      "colors": {
+        "bg": "#ff1f91",
+        "icon": "#ffffff"
+      },
+      "media": {
+        "icon": "fa-brands:instagram"
+      }
+    },
+    {
+      "title": "Twitter",
+      "url": "/",
+      "colors": {
+        "bg": "#38dbef",
+        "icon": "#ffffff"
+      },
+      "media": {
+        "icon": "fa-brands:twitter"
+      }
+    }
+  ]
+}

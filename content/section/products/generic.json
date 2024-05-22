@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "aspect": "4x4",
+      "photo": "/images/biasol-officina-biasol-offices-archello.1597751487.6512.jpg",
+      "link": "/",
+      "info": {
+        "info": {
+          "title": "Titulo",
+          "subtitle": "Subtitulo",
+          "button": {
+            "show": true,
+            "texto": "Boton"
+          }
+        }
+      }
+    }
+  ],
+  "title": "Productos Generico"
+}

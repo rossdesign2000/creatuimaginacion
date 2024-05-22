@@ -1,0 +1,229 @@
+{
+  "title": "Skills",
+  "sections": [
+    {
+      "title": "Javascript Flavors",
+      "icon": "mdi:language-typescript",
+      "items": [
+        {
+          "text": "Vanilla",
+          "rating": 4
+        },
+        {
+          "text": "Typescript",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "title": "Ecosystem",
+      "items": [
+        {
+          "text": "Package managment",
+          "rating": 6
+        },
+        {
+          "text": "Libreries",
+          "rating": 6
+        },
+        {
+          "text": "Monorepos",
+          "rating": 4
+        },
+        {
+          "text": "ES2015/ES2020",
+          "rating": 5
+        }
+      ],
+      "icon": "fa-brands:js"
+    },
+    {
+      "title": "Web",
+      "items": [
+        {
+          "text": "Html",
+          "rating": 5
+        },
+        {
+          "text": "Css",
+          "rating": 3
+        },
+        {
+          "text": "TailwindCss",
+          "rating": 6
+        }
+      ],
+      "icon": "uil:html5"
+    },
+    {
+      "title": "Build Tools",
+      "items": [
+        {
+          "text": "Webpack",
+          "rating": 4
+        },
+        {
+          "text": "Rollup",
+          "rating": 3
+        },
+        {
+          "text": "Esbuild",
+          "rating": 2
+        }
+      ],
+      "icon": "ion:build"
+    },
+    {
+      "title": "Frameworks",
+      "icon": "fa-brands:vuejs",
+      "items": [
+        {
+          "text": "Vue.js",
+          "rating": 6
+        },
+        {
+          "text": "React",
+          "rating": 2
+        },
+        {
+          "text": "Hapi.js",
+          "rating": 6
+        },
+        {
+          "text": "Express",
+          "rating": 3
+        },
+        {
+          "text": "Fastify",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "title": "Mobile and Desktop",
+      "icon": "fluent:phone-laptop-16-filled",
+      "items": [
+        {
+          "text": "Electron",
+          "rating": 3
+        },
+        {
+          "text": "Nativescript",
+          "rating": 4
+        },
+        {
+          "text": "React Native",
+          "rating": 2
+        },
+        {
+          "text": "Ionic",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "title": "Testing",
+      "icon": "file-icons:test-js",
+      "items": [
+        {
+          "text": "Jest",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "title": "Data Layers",
+      "items": [
+        {
+          "text": "Graphql",
+          "rating": 4
+        },
+        {
+          "text": "Vuex",
+          "rating": 4
+        },
+        {
+          "text": "Xstate",
+          "rating": 2
+        }
+      ],
+      "icon": "eos-icons:data-mining"
+    },
+    {
+      "title": "Databases",
+      "items": [
+        {
+          "text": "Postgresql",
+          "rating": 4
+        },
+        {
+          "text": "CouchDb",
+          "rating": 3
+        },
+        {
+          "text": "MongoDb",
+          "rating": 1
+        },
+        {
+          "text": "MySql/MariaDb",
+          "rating": 2
+        }
+      ],
+      "icon": "mdi:database"
+    },
+    {
+      "title": "DevOps",
+      "items": [
+        {
+          "text": "Pm2",
+          "rating": 4
+        },
+        {
+          "text": "Ansible",
+          "rating": 2
+        },
+        {
+          "text": "Amazon Web Service",
+          "rating": 3
+        },
+        {
+          "text": "Netlify",
+          "rating": 4
+        }
+      ],
+      "icon": "bx:bxl-dev-to"
+    },
+    {
+      "title": "Other Languajes",
+      "items": [
+        {
+          "text": "Python",
+          "rating": 1
+        },
+        {
+          "text": "Go",
+          "rating": 1
+        },
+        {
+          "text": "Php",
+          "rating": 2
+        }
+      ],
+      "icon": "mdi:language-python"
+    },
+    {
+      "title": "Others",
+      "items": [
+        {
+          "text": "Git",
+          "rating": 5
+        },
+        {
+          "text": "Uml",
+          "rating": 3
+        }
+      ],
+      "icon": "whh:programok"
+    }
+  ]
+}

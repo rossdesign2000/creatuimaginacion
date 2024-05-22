@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "title": "Plato Especial",
+      "items": [
+        {
+          "title": "Camarón a la Olla",
+          "description": "Aqui va una pequeña descripción del plato",
+          "prices": [
+            {
+              "title": "Normal",
+              "value": 7.99
+            },
+            {
+              "title": "Pequeño",
+              "value": 5.99
+            }
+          ],
+          "image": "/images/descarga-1-.jpeg"
+        }
+      ]
+    },
+    {
+      "title": "Sopas",
+      "items": [
+        {
+          "title": "Consome de pollo",
+          "image": "/images/images-1-.jpeg",
+          "prices": [
+            {
+              "title": "Normal",
+              "value": 1.7
+            }
+          ],
+          "description": "Descripción del plato"
+        }
+      ]
+    }
+  ],
+  "title": "Menu Generic",
+  "description": "Hola mundo"
+}

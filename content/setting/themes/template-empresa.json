@@ -1,0 +1,23 @@
+{
+  "id": "basic",
+  "colors": {
+    "primary": "#002ca5",
+    "secondary": "#3dbdff",
+    "primaryBgText": "#ffffff",
+    "secondaryBgText": "#ffffff"
+  },
+  "font": {
+    "link": "<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\">\n<link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap\" rel=\"stylesheet\">",
+    "css": "font-family: 'Roboto', sans-serif;"
+  },
+  "options": {
+    "shape": {
+      "mode": "normal"
+    },
+    "basic": {
+      "image": "/images/biasol-officina-biasol-offices-archello.1597751487.6512.jpg",
+      "hideBottomLabel": false,
+      "hideBottomNav": false
+    }
+  }
+}

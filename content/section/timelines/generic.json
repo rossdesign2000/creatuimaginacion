@@ -1,0 +1,60 @@
+{
+  "sections": [
+    {
+      "title": "Educación",
+      "media": {
+        "icon": "mdi:domain",
+        "color": "#7c4444"
+      },
+      "items": [
+        {
+          "head": {
+            "date": "2010",
+            "title": "D.C.A Sistemas"
+          },
+          "body": {
+            "title": "Operador de computadoras",
+            "text": "",
+            "goals": [
+              {
+                "text": "Certificado en Creación de paginas Web"
+              }
+            ]
+          }
+        },
+        {
+          "head": {
+            "date": "2009-2010",
+            "title": "Unidad Educativa Juan Larrea"
+          },
+          "body": {
+            "title": "Bachiller Tecnico en Aplicaciones Informaticas",
+            "goals": [
+              {
+                "text": "Mejor egresado de la Especialidad"
+              }
+            ],
+            "text": ""
+          }
+        },
+        {
+          "head": {
+            "date": "2012-2016",
+            "title": "Universidad San Francisco"
+          },
+          "body": {
+            "title": "Ingeniera en sistemas informaticos",
+            "goals": [
+              {
+                "text": "Premio por el Proyecto Simulador de GUI Gnome 3"
+              }
+            ],
+            "text": ""
+          }
+        }
+      ],
+      "icon": "mdi:school"
+    }
+  ],
+  "title": "Template portafolio"
+}

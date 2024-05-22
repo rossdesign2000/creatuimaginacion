@@ -1,0 +1,11 @@
+{
+  "name": "generator",
+  "version": "1.0.0",
+  "description": "Generator",
+  "author": "Andres Navarrete",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "generate": "./pre-generate.bash && ./generator"
+  }
+}

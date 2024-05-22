@@ -1,0 +1,40 @@
+{
+  "title": "Template Empresa",
+  "sections": [
+    {
+      "name": "Nosotros",
+      "id": "about",
+      "icon": "mdi:domain",
+      "type": "Articulo",
+      "section": "/section/articles/generic"
+    },
+    {
+      "name": "Dirección",
+      "type": "Mapa",
+      "id": "ubication",
+      "icon": "mdi:map",
+      "section": "/section/maps/ubicacion-simple"
+    },
+    {
+      "name": "Productos",
+      "section": "/section/products/generic",
+      "icon": "mdi:briefcase"
+    },
+    {
+      "name": "Videos",
+      "section": "/section/youtube/generic",
+      "icon": "fa-brands:youtube"
+    },
+    {
+      "name": "Contactanos",
+      "type": "Urls_Externos",
+      "id": "contact",
+      "icon": "mdi:forum",
+      "section": "/section/links/generic"
+    }
+  ],
+  "card": {
+    "icon": "mdi:account",
+    "name": "Mi tarjeta"
+  }
+}
